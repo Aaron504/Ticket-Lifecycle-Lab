@@ -26,26 +26,26 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![Screenshot 2024-07-14 201920](https://github.com/user-attachments/assets/6d7b4b46-270c-498f-a5dc-7ed3e8dd0882)
+![Screenshot 2024-07-14 215812](https://github.com/user-attachments/assets/a0055c8c-873d-4006-a88e-966ef7962d40)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Logging in as Helpdesk Support Analyst
+![Screenshot 2024-07-14 220316](https://github.com/user-attachments/assets/43dad4b1-26f0-4c3f-b03c-51b699fc44a9)
+![Screenshot 2024-07-14 220751](https://github.com/user-attachments/assets/25f05d92-44ff-420d-ac12-e4c80ac8589d)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Working the Issue
+![Screenshot 2024-07-14 221615](https://github.com/user-attachments/assets/e0f4c8e8-e361-4c50-8de4-082ab84465a5)
+
+Resolution
+![Screenshot 2024-07-14 222314](https://github.com/user-attachments/assets/858a6ea4-e7f0-4970-aa69-5282f299dcbe)
+
+
+
+
+
+
+
+
+
+
+
